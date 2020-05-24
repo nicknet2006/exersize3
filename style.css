@@ -1,5 +1,6 @@
 .bode_style {
   background-color: #120571;
+  margin: 0;
 }
 .size_set {
   height: 100%;
@@ -7,10 +8,11 @@
 }
 .title_set {
   color: #2D64FF;
-  font-size: 750%;
+  font-size: 10vw;
   font-weight: 11.2px;
   margin: 0 auto 0 auto;
   display: inline-block;
+  width: 69vw;
 }
 
 .color {
@@ -18,7 +20,8 @@
 }
 
 .size{
-  font-size: 251%;
+  width: 15vw;
+  height: 15vw;
 }
 .h {
   color: #FFFFFF;
@@ -48,4 +51,10 @@
 }
 .myButton:hover {
 	background-color:#5cbf2a;
+}
+
+.ni {
+  
+  width: 98vw;
+  height: (0,5625‬*98)vw;
 }
